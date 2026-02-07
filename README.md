@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚕 Ride Supply Risk
-### *AI-Powered Ride Cancellation & Supply Supply Demand Intelligence*
+### *AI-Powered Ride Cancellation & Supply Demand Intelligence*
 
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange.svg)
